@@ -2,7 +2,7 @@
 
 This is a fullstack project built with [react](https://react.dev/). Jukebox is personalized gateway to a world of rhythm and pop. Designed with a sleek and intuitive interface, Jukebox aims to elevate your music listening experience to new heights. The purpose of this project is to learn graphql api and client request.
 
-- Frontend state management is handled with [react context api](https://redux.js.org/).
+- Frontend state management is handled with [react context api](https://react.dev/reference/react/createContext).
 - [Material ui](https://mui.com) handles theming, user interface and responsiveness.
 - [Axios](https://www.npmjs.com/package/axios) handles data fetching.
 - Authentication is based on [JWT](https://jwt.io) and stored in cookies.
